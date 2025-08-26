@@ -5,6 +5,7 @@
 
 - Testing with JUnit5
 - CI workflow
+- Regression test
 - ...
 
 ### Screenshots
